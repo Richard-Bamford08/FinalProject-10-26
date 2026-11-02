@@ -6,6 +6,7 @@ GitHub Repo Requirements (*Can be deleted/reformatted later*)
 - Each group member's personal notebook(s) (Show your work)
 - A Readme that contains:
 - Team name
+- Metric: Neighborhood Safety 
 - Team members and their email addresses
 1. Richard Bamford, rab563@pitt.edu
 2. Erin Morrison, esm162@pitt.edu
