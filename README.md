@@ -9,7 +9,7 @@ GitHub Repo Requirements (*Can be deleted/reformatted later*)
 - Metric: Neighborhood Safety 
 - Team members and their email addresses
 1. Richard Bamford, rab563@pitt.edu
-2. Erin Morrison, esm162@pitt.edu
+2. Erin Morrison, esm162@pitt.edu (working with arrest dataset)
 3. 
 - Description and links to the datasets used
 - A one sentence overview of your repository, meant for someone who is not familiar with the project
